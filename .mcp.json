@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "assistant-core": {
+      "type": "http",
+      "url": "https://api.assistantcore.com/mcp"
+    }
+  }
+}

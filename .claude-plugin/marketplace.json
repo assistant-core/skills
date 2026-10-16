@@ -1,0 +1,15 @@
+{
+  "name": "assistant-core",
+  "description": "Assistant Core plugins for Claude Code",
+  "owner": {
+    "name": "Assistant Core",
+    "url": "https://assistantcore.com"
+  },
+  "plugins": [
+    {
+      "name": "assistant-core",
+      "source": "./",
+      "description": "Assistant Core MCP server plus a skill for managing your assistants"
+    }
+  ]
+}

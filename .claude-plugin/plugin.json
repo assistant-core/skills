@@ -1,0 +1,14 @@
+{
+  "name": "assistant-core",
+  "displayName": "Assistant Core",
+  "version": "1.0.0",
+  "description": "Manage your Assistant Core assistants: the Assistant Core MCP server plus a skill for writing prompts, adding knowledge and improving from feedback.",
+  "author": {
+    "name": "Assistant Core",
+    "url": "https://assistantcore.com"
+  },
+  "homepage": "https://docs.assistantcore.com/assistant-core-mcp",
+  "repository": "https://github.com/assistant-core/skills",
+  "license": "MIT",
+  "keywords": ["assistant-core", "mcp", "voice", "assistant"]
+}
