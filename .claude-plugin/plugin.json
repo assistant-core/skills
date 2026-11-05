@@ -1,7 +1,7 @@
 {
   "name": "assistant-core",
   "displayName": "Assistant Core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manage your Assistant Core assistants: the Assistant Core MCP server plus a skill for writing prompts, adding knowledge and improving from feedback.",
   "author": {
     "name": "Assistant Core",
